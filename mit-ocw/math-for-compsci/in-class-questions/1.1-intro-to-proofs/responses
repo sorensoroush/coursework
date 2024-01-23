@@ -1,0 +1,41 @@
+1c.
+	If a = b, then the square doesn't exist (whose side lengths are (a - b) = 0 ). This makes the proof simpler by creating two squares each out of two triangles ( area = a^2 = b^2 ) and rearranging them into one combined square whose side length is c (area = a^2 + b^2 = c^2).
+
+1d.
+	Properties:
+		Triangles that share three congruent sides are congruent
+		Squares have an equal length and width
+		Right triangles have one right angle
+		A pair of lines that never intersection are parallel, and are therefore equidistant at every point
+		The length of a line segment is equal to its constituent line segments
+
+2a.
+	The mistake is the step from √((-1)(-1)) => √(-1)√(-1)
+	Factoring the roots in this way assumes that roots are nonnegative, which they aren't in this case
+
+2b.
+	Assume:
+		1 = -1
+	Divide both sides by two:
+		1/2 = -1/2
+	Add 3/2 to both sides:
+		2 = 1
+	QED
+
+2c.
+	(Skipped)
+
+3a.
+
+	
+
+5.
+	Scratchwork:
+		If an event is unable to be predicted any time before its occurence, then it is a surprise
+		If the quiz is given on Friday, then its occurence would be predictable after Thursday ends
+			Therefore, a quiz on Friday would not be a surprise
+			Therefore, Albert cannot hold a surprise quiz on Friday
+		It's true after a point, but it's not recursive
+		The surprises ends after Wednesday ends, because then Thursday is the only day that could be a surprise
+
+
