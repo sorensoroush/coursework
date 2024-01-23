@@ -37,6 +37,7 @@
 	Cannot divide by (a-b). This has been established to be equal to 0, and doing this breaks math
 
 4.
+	I'm not entirely sure of what is "objectionable" and how to fix it, but I think it has to do something about the fallacy of concluding the sign of a term before it's squared.
 	
 
 5.
@@ -47,3 +48,9 @@
 			Therefore, Albert cannot hold a surprise quiz on Friday
 		It's true after a point, but it's not recursive
 		The surprises ends after Wednesday ends, because then Thursday is the only day that could be a surprise
+
+		---
+
+		I think this hinges on what is considered a "surprise". One could consider a test on Friday could still be considered a surprise, because the "surprise" is on the date change; that is, the acknowledgment of the test being on Friday.
+
+		Also, "plans" could be interpretted as uncertainty. That could mean that even on Friday it could be a surprise, since there is no guarantee.
