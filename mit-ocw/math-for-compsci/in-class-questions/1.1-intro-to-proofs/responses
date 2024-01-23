@@ -26,7 +26,17 @@
 	(Skipped)
 
 3a.
+	log10(1/2) is a negative value, which mandates a sign flip. This was overlooked in the proof.
+	(It is also worth noting that, although the power rule for logarithms wasn't appropriately applied, this doesn't affect the truthness of the resulting inequality)
 
+3b.
+	The issue comes with applying exponential operations onto units without appropriate adjustment
+	(As an example, the different conversion ratios of cm and cm²)
+
+3c.
+	Cannot divide by (a-b). This has been established to be equal to 0, and doing this breaks math
+
+4.
 	
 
 5.
@@ -37,5 +47,3 @@
 			Therefore, Albert cannot hold a surprise quiz on Friday
 		It's true after a point, but it's not recursive
 		The surprises ends after Wednesday ends, because then Thursday is the only day that could be a surprise
-
-
