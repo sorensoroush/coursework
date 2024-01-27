@@ -1,2 +1,8 @@
 1. 
-	1
+	Proposition:
+		If (a · b = n), then either a or b must be ≤ √n, where a, b, and n, are nonnegative numbers
+	
+	Proof:
+		We use proof by contradiction
+		Suppose if (a · b = n), then neither a nor b must be ≤ √n, where a, b, and n, are nonnegative numbers
+
