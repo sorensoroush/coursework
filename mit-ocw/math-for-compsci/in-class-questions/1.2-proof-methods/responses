@@ -5,8 +5,8 @@
 	Proof:
 		We use proof by contradiction
 		Suppose if (a · b = n), then neither a nor b must be ≤ √n, where a, b, and n, are nonnegative numbers
-		We can rewrite this, using the law of trichotomy, to say "both a and b must be > √n"
-		Rewritten, a > √n AND b > √n
-		We can multiply both inequalities to yield (a · b > n)
+		The law of trichotomy, when applied to relations of numbers, states that any pair of real values x and y can have only one of three relations: x > y, x = y, or x < y
+		We can rewrite this supposition using the law of trichotomy: if (a, b ≮ √n) and (a, b ≠ √n); then (a, b > √n)
+		We can multiply (a > √n) and (b > √n) to yield (a · b > n)
 		This conclusion contradicts the antecedent, which means the proposition must be true
 
