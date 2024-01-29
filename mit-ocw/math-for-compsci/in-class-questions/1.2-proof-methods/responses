@@ -10,3 +10,17 @@
 		We can multiply (a > √n) and (b > √n) to yield (a · b > n)
 		This conclusion contradicts the antecedent, which means the proposition must be true
 
+2.
+	Proposition:
+		For any nonnegative imperfect square x, √x is irrational
+	
+	Proof:
+		This proof is done by contradiction
+		Suppose √x is rational
+		The definition of a rational number is a number that can be expressed as a ratio of two integers
+		Therefore √x can be written as fraction ⁿ⁄ₘ expressed in lowest terms, where n and m are integers:
+		(1)		√x = ⁿ⁄ₘ
+		Square both sides of (1) to yield:
+		(2)		x = n²/m²
+		(3) 	x · m² = n²
+		This implies x is a factor of n
