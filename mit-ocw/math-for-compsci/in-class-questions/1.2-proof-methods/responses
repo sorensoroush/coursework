@@ -10,6 +10,7 @@
 		We can multiply (a > √n) and (b > √n) to yield (a · b > n)
 		This conclusion contradicts the antecedent, which means the proposition must be true
 
+
 2.
 	Proposition:
 		For any nonnegative imperfect square x, √x is irrational
@@ -24,3 +25,52 @@
 		(2)		x = n²/m²
 		(3) 	x · m² = n²
 		This implies x is a factor of n
+
+
+3.
+	Proposition: 
+		An irrational number raised to a irrational power can be rational
+	
+	Scratchwork:
+		...I'm stumped on this one (unfortunately writing this after looking this concept up online)
+		It says to consider √2^√2
+		...how do I even do that?
+		None of the laws of exponents helps with this
+		After having looked it up online, it can't be solved algebraically...needs to be solved as an appoximation
+		Then I'm confused about how it can be rational...
+		I'm beginning to think this is a dummy question meant to confuse students
+		How can I even solve by cases for something I can't analyze?
+		I read that it can be solved using logarithms...
+		So in this case:
+			x = √2^√2 
+			log√2(x) = √2 
+		...yep, stumped
+
+	Proof:
+		[omitted]
+
+
+4.
+	Proposition:
+		2log₂3 is irrational
+	
+	Scratchwork:
+		We can prove this with the same method as exercise 2
+
+	Proof:
+		This proof is done by contradiction
+		Suppose 2log₂3 is rational
+
+		The definition of a rational number is a number that can be expressed as a ratio of two integers
+		Therefore 2log₂3 can be written as fraction ⁿ⁄ₘ expressed in lowest terms, where n and m are integers:
+		(1) 2log₂3 = ⁿ⁄ₘ  
+
+		Rewrite using the power rule of logarithms:
+		(2) log₂9 = ⁿ⁄ₘ
+
+		Rewrite using the definition of logarithms:
+		(3) 2^(ⁿ⁄ₘ) = 9
+		
+		(4) ᵐ√(2ⁿ) = 9
+
+		{I don't know, to be continued?}
