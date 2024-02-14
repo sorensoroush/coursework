@@ -1,2 +1,10 @@
 1.
+	Proposition:
+		S(n) implies 3|n, for all nonnegative integers of n
+			S(n) := exactly n¢ postage can be assembled from only 6¢ and 15¢ stamps 
+			j|k := j is a divisor of k
 	
+	Proof:
+		Let C be the set of counterexamples, namely:
+			C := {n ∤ 6ᵃ + 15ᵇ} where a, b are nonnegative integers
+		Assume for the purpose of obtaining a contradiction that 
