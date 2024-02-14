@@ -6,5 +6,11 @@
 	
 	Proof:
 		Let C be the set of counterexamples, namely:
-			C := {n ∤ 6ᵃ + 15ᵇ} where a, b are nonnegative integers
-		Assume for the purpose of obtaining a contradiction that 
+			C := {n ∤ 6a + 15b} where a, b are nonnegative integers
+		Assume for the purpose of obtaining a contradiction that C is nonempty. Then by the Well Ordering Principle, there is a smallest number, m ∈ C. This m must be positive because:
+			n, the variable element of C, is established to be a nonnegative integer
+			Thus, C is a set of nonnegative integers
+		But if S(m) holds and m is positive, then S(m-6) or S(m-15) must hold, because:
+			subtracting by 6 or 15 still fits the definition of C by decrementing a or b by 1
+		So suppose S(m-6) holds. Then 3|(m-6), because:
+			
